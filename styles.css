@@ -1,0 +1,104 @@
+body {
+	height: 665px;
+	background-image: url("https://img2.freepng.es/20180612/abg/kisspng-mediumship-divinity-tratamento-espiritual-umbanda-ogum-5b202e6fba3981.3624697015288356957628.jpg"
+);
+	background-size:  10rem;
+}
+
+button{
+	background-color: #9c9c9c;
+	font-family: fantasy;
+	font-size: 19px;
+}
+
+p {
+	background-color: white;
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: 200;
+}
+
+h3 {
+	font-family: italic;
+	border-style: dotted;
+	font-weight: 500;
+	font-size: 25px;
+	background-color: white;
+	text-align: center;
+}
+
+.navbar {
+	background-color: transparent;
+	text-align:right ;
+	font-weight: 400;
+
+}
+
+#tituloPrincipal {
+	text-align: center;
+	font-family: verdana;
+	text-shadow: orangered;
+	font-weight: 500
+	border-style: double;
+	background-color: white;
+}
+
+#titulosSecundarios {
+	background-color: white;
+	font-style: italic;
+	font-weight: 500;
+	border-style: dotted;
+	text-align: center;
+	font-size: 30px;
+}
+
+footer {
+	background-color: white;
+	font-style: oblique;
+	font-weight: 150;
+}
+
+/*pagina imagenes umbanda*/
+
+.imagenes {
+	background: transparent;
+	width: 100%
+}
+
+
+#congalCaboclo {
+	width: 50%;
+	height: auto;
+	margin: auto;
+	display: block;
+}
+
+#congalKimbanda {
+	width: 50%;
+	height: auto;
+	margin: auto;
+	display: block;
+}
+
+
+
+
+
+/* pagina  puntos*/
+#imagenesPuntos{
+	height: 665px;
+	background-image: url("https://img2.freepng.es/20181119/cbg/kisspng-illustration-clip-art-orisha-vector-graphics-porta-orisha-supreme-divinity-xang-vector-image-5bf2d4ea6bad71.6571721215426408744411.jpg"});
+	background-size:10rem;
+}
+
+.ogum{
+	background: transparent;
+	width: 25%
+}
+
+#ogumImagen{
+	width: 100%;
+	height: auto;
+	margin: auto;
+	display: block;
+}
